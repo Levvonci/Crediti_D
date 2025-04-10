@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "b1580ec8a280540c",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc00e28f5549e43d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9bb33d4453f8886c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "CREDITI DI TIPO D MATLAB (2).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "CREDITI DI TIPO D MATLAB (2)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5026a5f9c347e03b",
+    "type": "split",
+    "children": [
+      {
+        "id": "22c794ad3b54934f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6987bbccd08ff672",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e22e305606f1a1a9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a6211c23ec6ec624",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9a1115f21d0c9b1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffea9de490466ef7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdb7f7fa5a507c81",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CREDITI DI TIPO D MATLAB (2).pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for CREDITI DI TIPO D MATLAB (2)"
+            }
+          },
+          {
+            "id": "f5faf5961a8fb0ff",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CREDITI DI TIPO D MATLAB (2).pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from CREDITI DI TIPO D MATLAB (2)"
+            }
+          },
+          {
+            "id": "10739649780ab1fe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "842339b5e495054b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CREDITI DI TIPO D MATLAB (2).pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of CREDITI DI TIPO D MATLAB (2)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9bb33d4453f8886c",
+  "lastOpenFiles": [
+    "CreditiD_RelazioneFinale.md"
+  ]
+}
